@@ -55,6 +55,7 @@ Each row in the csv has a `site_id` as described in the metadata schema. The rem
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 
+[github]: https://github.com/recursionpharma/rxrx-datasets/
 [rxrx]: http://rxrx.ai
 [rxrx2]: https://rxrx.ai/rxrx2
 [paper]: https://www.biorxiv.org/content/10.1101/2020.08.02.233064v1
