@@ -44,6 +44,9 @@ The deep learning embeddings can be found in `rxrx2-embeddings.csv` and download
 Each row in the csv has a `site_id` as described in the metadata schema. The remaining 1024 columns is the embedding for that respective site.
 
 
+## Changelog:
+- August 2020: initial release
+
 
 ## License
 
