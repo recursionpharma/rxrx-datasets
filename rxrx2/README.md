@@ -2,7 +2,7 @@
 
 For more information about RxRx2 please visit [RxRx.ai][rxrx2] and read the asscociated paper, [Functional immune mapping with deep-learning enabled phenomics applied to immunomodulatory and COVID-19 drug discovery][paper].
 
-RxRx2 was produced by [Recursion][recursion] and is part of a larger set of datasets than can be found at [RxRx.ai][rxrx].
+RxRx2 was produced by [Recursion][recursion] and is part of a larger set of datasets than can be found at [RxRx.ai][rxrx]. For questions about this dataset and others please email [mailto:info@rxrx.ai](info@rxrx.ai)
 
 
 ## Metadata
