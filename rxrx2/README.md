@@ -6,7 +6,7 @@ RxRx2 is part of a larger set of [Recursion][recursion] datasets that can be fou
 
 ## Metadata
 
-The metadata can be found in `rxrx2-metadata.csv` and downloaded [from here][download]. The schema of the metadata is as follows:
+The metadata can be found in `metadata.csv` and downloaded [from here][download]. The schema of the metadata is as follows:
 
 | Attribute         | Description                                                                 |
 |-------------------|-----------------------------------------------------------------------------|
@@ -38,7 +38,7 @@ All six channels (`w1` - `w6`) make up an single image of a given `site`.
 ## Deep Learning Embeddings
 
 
-The deep learning embeddings can be found in `rxrx2-embeddings.csv` and downloaded [from here][download] (*n.b.* this is 78MB).
+The deep learning embeddings can be found in `embeddings.csv` and downloaded [from here][download] (*n.b.* this is 78MB).
 
 Each row in the csv has a `site_id` as described in the metadata schema. The remaining 1024 columns is the embedding for that respective site.
 
