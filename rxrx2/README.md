@@ -23,7 +23,7 @@ The metadata can be found in `metadata.csv` and downloaded [from here][download]
 
 ## Images
 
-The images are found in `images/*` and can be downloaded [from here][download] (*n.b.* this is 184GB).
+The images are found in `images/*` and can be downloaded [from here][download] (*n.b.* this is 185GB).
 The image data are 1024x1024 8-bit `png` files. The image paths, such as `HUVEC-1/Plate1/AA02_s2_w3.png`, can be read as:
 
 Experiment Name: Cell type and experiment number (HUVEC experiment 1)       
@@ -38,7 +38,7 @@ All six channels (`w1` - `w6`) make up an single image of a given `site`.
 ## Deep Learning Embeddings
 
 
-The deep learning embeddings can be found in `embeddings.csv` and downloaded [from here][download] (*n.b.* this is 78MB).
+The deep learning embeddings can be found in `embeddings.csv` and downloaded [from here][download] (*n.b.* this is 76MB).
 
 Each row in the csv has a `site_id` as described in the metadata schema. The remaining 1024 columns is the embedding for that respective site.
 
