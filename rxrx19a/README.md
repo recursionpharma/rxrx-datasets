@@ -9,7 +9,7 @@ and
 [Functional immune mapping with deep-learning enabled phenomics applied to immunomodulatory and COVID-19 drug discovery][paper2].
 
 
-RxRx19a is part of a larger set of Recursion datasets that can be found at [RxRx.ai][rxrx] and on [GitHub][github].
+RxRx19a is part of a larger set of Recursion datasets that can be found at [RxRx.ai][rxrx] and on [GitHub][github]. For questions about this dataset and others please email [info@rxrx.ai](mailto:info@rxrx.ai).
 
 ## Metadata
 
