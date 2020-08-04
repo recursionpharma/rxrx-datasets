@@ -24,7 +24,7 @@ The metadata can be found in `rxrx2-metadata.csv` and downloaded [from here][dow
 
 ## Images
 
-The images are found in `images/*` and can be downloaded [from here][download] (*n.b.* this is 195GB).
+The images are found in `images/*` and can be downloaded [from here][download] (*n.b.* this is 184GB).
 The image data are 1024x1024 8-bit `png` files. The image paths, such as `HUVEC-1/Plate1/AA02_s2_w3.png`, can be read as:
 
 Experiment Name: Cell type and experiment number (HUVEC experiment 1)       
