@@ -21,7 +21,7 @@ The metadata can be found in `metadata.csv` and downloaded [from here][download]
 | plate             | Plate number within the experiment                                                                                    |
 | well              | Location on the plate                                                                                                 |
 | site              | Indication of the location in the well where image was taken (always 1 in RxRx19b)                                    |
-| disease_condition | The disease condition tested in the well (healthy cytokine cocktail, severe cytokine storm cocktail, or no cytokines) |
+| disease_condition | The disease condition tested in the well (`healthy`, healthy cytokine cocktail; `storm-severe`, severe cytokine storm cocktail; or blank, no cytokines) |
 | treatment         | Compound tested in the well (if any)                                                                                  |
 | treatment_conc    | Compound concentration tested (in uM)                                                                                 |
 | SMILES            | Formula of tested compound (as CXSMILES/ChemAxon Extended SMILES)                                                     |
