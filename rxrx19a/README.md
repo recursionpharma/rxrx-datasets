@@ -41,8 +41,16 @@ Well location on plate (column AA, row 2)
 Site (2)            
 Channel (3)                  
 
-All five channels (`w1` - `w5`) make up an single image of a given `site`.
+All five channels (`w1` - `w5`) make up an single image of a given `site`. Each channel images a single
+cellular stain:
 
+| channel  | stain                                   |
+|----------|-----------------------------------------|
+| `w1`     | Hoechst 33342 (nucleus)                 |
+| `w2`     | Concanavalin A (membrane glycoproteins) |
+| `w3`     | Phalloidin (Actin)                      |
+| `w4`     | Syto14 (RNA)                            |
+| `w5`     | Wheat germ agglutinin (Golgi)           |
 
 ## Deep Learning Embeddings
 
