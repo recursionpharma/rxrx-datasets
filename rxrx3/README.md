@@ -12,7 +12,7 @@ RxRx3 is part of a larger set of [Recursion][recursion] datasets that can be fou
 
 # Compound and Gene identifiers
 
-The RxRx3 release contains 17,064 genes, as well as 1,674 known chemical entities at 8 doses each. 16,328 of these genes are anonymized in the dataset, enabling people to explore and learn from this massive dataset while protecting Recursion’s business interests. Recursion may de-anonymize genes in this dataset in the future. If you'd like to understand more about how to get access to unblinded genes please email [info@rxrx.ai](mailto:info@rxrx.ai).
+The RxRx3 release contains 17,063 genes, as well as 1,674 known chemical entities at 8 doses each. 16,328 of these genes are anonymized in the dataset, enabling people to explore and learn from this massive dataset while protecting Recursion’s business interests. Recursion may de-anonymize genes in this dataset in the future. If you'd like to understand more about how to get access to unblinded genes please email [info@rxrx.ai](mailto:info@rxrx.ai).
 
 ## Metadata
 
