@@ -6,6 +6,10 @@ Our maps are built using image-based high-dimensional data generated in-house. W
 
 RxRx3 is a publicly available map of biology that represents a small subset – less than 1% – of Recursion’s total dataset. MolRec™️ is a simple demo example of such an application that can be built on this type of map.
 
+Please use the following format to cite this dataset as a whole:
+
+We used the RxRx3 dataset (Fay et al. (2023). RxRx3: Phenomics Map of Biology. bioRxiv 2023.02.07.527350), available from [RxRx.ai][rxrx].
+
 For more information about RxRx3 please visit [RxRx.ai/rxrx3][rxrx3]
 
 RxRx3 is part of a larger set of [Recursion][recursion] datasets that can be found at [RxRx.ai][rxrx] and on [GitHub][github]. For questions about this dataset and others please email [info@rxrx.ai](mailto:info@rxrx.ai).
