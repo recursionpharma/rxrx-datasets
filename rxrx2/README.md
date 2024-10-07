@@ -34,6 +34,7 @@ Channel (3)
 
 All six channels (`w1` - `w6`) make up an single image of a given `site`.
 
+Physical resolution: 0.65 micron/pixel.
 
 ## Deep Learning Embeddings
 
