@@ -59,6 +59,8 @@ Channel (3)
 
 All six channels (`w1` - `w6`) make up an single image of a given `site`. Note there is one site only for every well address.
 
+Physical resolution: 0.65 micron/pixel.
+
 ## Deep Learning Embeddings
 
 The deep learning embeddings are provided as `embeddings.tar` and can be downloaded [from here][download] (this is ~ 1.82 GB).

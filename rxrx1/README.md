@@ -45,6 +45,8 @@ can be read as:
 
 All six channels (`w1` - `w6`) make up a single image of a given site.
 
+Physical resolution: 0.65 micron/pixel.
+
 ## Changelog
 - June 2019: original release for CellSignal; train images only
 - December 2019: updated to include test images after completion of CellSignal competition
