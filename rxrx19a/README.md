@@ -52,6 +52,8 @@ cellular stain:
 | `w4`     | Syto14 (RNA)                            |
 | `w5`     | Wheat germ agglutinin (Golgi)           |
 
+Physical resolution: 0.65 micron/pixel.
+
 ## Deep Learning Embeddings
 
 
