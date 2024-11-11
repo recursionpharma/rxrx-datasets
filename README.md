@@ -8,3 +8,4 @@ for public research by [Recursion Pharmaceuticals](recursionpharma.com).
 - [RxRx19a -- Morphological Imaging Dataset of SARS-CoV-2 viral infection](/rxrx19a) 
 - [RxRx19b -- Morphological Imaging of the COVID-19-associated cytokine storm](/rxrx19b) 
 - [RxRx3 -- Phenomics Map of Biology](/rxrx3) 
+- [RxRx3-core -- Challenge dataset in phenomics](/rxrx3-core) 
