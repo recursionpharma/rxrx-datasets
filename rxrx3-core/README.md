@@ -6,7 +6,6 @@ Previously, we released [RxRx3](./../rxrx3/) a publicly available map of biology
 
 **RxRx3-core is only 18GB and easily accesible via [Hugging Face](https://huggingface.co/datasets/recursionpharma/rxrx3-core)**.
 
-If you'd like to understand more about how to get access to unblinded genes please email [info@rxrx.ai](mailto:info@rxrx.ai).
 
 ## Metadata
 
@@ -53,19 +52,19 @@ Physical resolution: 0.65 micron/pixel.
 
 ## Deep Learning Embeddings
 
-The deep learning embeddings are provided as `OpenPhenom_rxrx3_core_embeddings.parquet` and can be downloaded [from here](https://huggingface.co/datasets/recursionpharma/rxrx3-core/blob/main/OpenPhenom_rxrx3_core_embeddings.parquet) (this is ~ 532 MB).
+The deep learning embeddings computed using [OpenPhenom-S/16](https://huggingface.co/recursionpharma/OpenPhenom) are provided as `OpenPhenom_rxrx3_core_embeddings.parquet` and can be downloaded [from here](https://huggingface.co/datasets/recursionpharma/rxrx3-core/blob/main/OpenPhenom_rxrx3_core_embeddings.parquet) (this is ~ 532 MB). A notebook computing these embeddings with OpenPhenom-S/16 is provided [here](https://huggingface.co/recursionpharma/OpenPhenom/blob/main/RxRx3-core_inference.ipynb).
 
-Each row in the parquet file has a `well_id` as described in the metadata schema. The remaining 384 columns are the embedding for that respective well
+Each row in the parquet file has a `well_id` as described in the metadata schema. The remaining 384 columns are the embedding for that respective well.
 
 ## Accessing RxRx3-core through Hugging Face API
 
 Loading the RxRx3-core image dataset. 
-An example of running inference on this dataset with OpenPhenom is provided [here](https://huggingface.co/recursionpharma/OpenPhenom/blob/main/RxRx3-core_inference.ipynb).
+An example of running inference on this dataset with OpenPhenom-S/16 is provided [here](https://huggingface.co/recursionpharma/OpenPhenom/blob/main/RxRx3-core_inference.ipynb).
 ```
 from datasets import load_dataset
 rxrx3_core = load_dataset("recursionpharma/rxrx3-core")
 ```
-Loading OpenPhenom embeddings and metadata for RxRx3-core
+Loading OpenPhenom-S/16 embeddings and metadata for RxRx3-core
 ```
 from huggingface_hub import hf_hub_download
 import pandas as pd
